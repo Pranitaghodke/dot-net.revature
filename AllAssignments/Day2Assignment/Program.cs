@@ -13,6 +13,7 @@ class Program
         Section7.Run();
         Section8.Run();
         Section9.Run();
+        Section10.Run();
 
     }
 }

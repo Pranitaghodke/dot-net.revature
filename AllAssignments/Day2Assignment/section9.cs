@@ -34,7 +34,7 @@ namespace Day2Assignment
 
             Console.WriteLine("Equality result: " + eq);
 
-
+             Console.WriteLine("................");
         }
         
     }
