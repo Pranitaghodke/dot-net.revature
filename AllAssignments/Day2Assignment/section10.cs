@@ -25,6 +25,7 @@ namespace Day2Assignment
             Console.WriteLine("Product: " + product);
             Console.WriteLine("Ratio: " + ratio);
             Console.WriteLine("Remainder: " + remainder);
+            Console.WriteLine("......................");
         }
     }
 }
