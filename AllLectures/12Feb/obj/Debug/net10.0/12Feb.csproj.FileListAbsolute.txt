@@ -1,0 +1,15 @@
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\bin\Debug\net10.0\12Feb.exe
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\bin\Debug\net10.0\12Feb.deps.json
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\bin\Debug\net10.0\12Feb.runtimeconfig.json
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\bin\Debug\net10.0\12Feb.dll
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\bin\Debug\net10.0\12Feb.pdb
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.AssemblyInfoInputs.cache
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.AssemblyInfo.cs
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.csproj.CoreCompileInputs.cache
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.sourcelink.json
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.dll
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\refint\12Feb.dll
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.pdb
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\12Feb.genruntimeconfig.cache
+c:\Users\91942\Desktop\dot-net.revature\AllLectures\12Feb\obj\Debug\net10.0\ref\12Feb.dll
